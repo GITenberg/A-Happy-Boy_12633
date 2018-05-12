@@ -1,5 +1,5 @@
 _repo: A-Happy-Boy_12633
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: En glad gut. English
 contributor:
   translator:
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '4534'
     url: http://www.gutenberg.org/2009/agents/4534
     wikipedia: http://en.wikipedia.org/wiki/Rasmus_B._Anderson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1772
     wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12633#A-Happy-Boy
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
